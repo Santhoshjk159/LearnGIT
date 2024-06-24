@@ -1,7 +1,7 @@
 public class CaseConverter {
 
     public static void main(String[] args) {
-        String str = "SACHIN TENDULKAR";
+        String str = "SACHIN";
         String convertedStr = convertCase(str);
         
         System.out.println("Original: " + str);
